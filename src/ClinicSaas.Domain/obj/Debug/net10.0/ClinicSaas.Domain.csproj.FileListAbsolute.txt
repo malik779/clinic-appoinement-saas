@@ -1,0 +1,13 @@
+/workspace/src/ClinicSaas.Domain/bin/Debug/net10.0/ClinicSaas.Domain.deps.json
+/workspace/src/ClinicSaas.Domain/bin/Debug/net10.0/ClinicSaas.Domain.dll
+/workspace/src/ClinicSaas.Domain/bin/Debug/net10.0/ClinicSaas.Domain.pdb
+/workspace/src/ClinicSaas.Domain/obj/Debug/net10.0/ClinicSaas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/src/ClinicSaas.Domain/obj/Debug/net10.0/ClinicSaas.Domain.AssemblyInfoInputs.cache
+/workspace/src/ClinicSaas.Domain/obj/Debug/net10.0/ClinicSaas.Domain.AssemblyInfo.cs
+/workspace/src/ClinicSaas.Domain/obj/Debug/net10.0/ClinicSaas.Domain.csproj.CoreCompileInputs.cache
+/workspace/src/ClinicSaas.Domain/obj/Debug/net10.0/ClinicSaas.Domain.sourcelink.json
+/workspace/src/ClinicSaas.Domain/obj/Debug/net10.0/ClinicSaas.Domain.dll
+/workspace/src/ClinicSaas.Domain/obj/Debug/net10.0/refint/ClinicSaas.Domain.dll
+/workspace/src/ClinicSaas.Domain/obj/Debug/net10.0/ClinicSaas.Domain.pdb
+/workspace/src/ClinicSaas.Domain/obj/Debug/net10.0/ref/ClinicSaas.Domain.dll
+/workspace/src/ClinicSaas.Domain/obj/Debug/net10.0/ClinicSaas.Domain.csproj.AssemblyReference.cache

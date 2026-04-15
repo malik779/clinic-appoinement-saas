@@ -1,0 +1,6 @@
+{
+  "ClinicSaas.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/workspace\/src\/ClinicSaas.Api",
+  "ClinicSaas.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/workspace\/src\/ClinicSaas.Application",
+  "ClinicSaas.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/workspace\/src\/ClinicSaas.Domain",
+  "ClinicSaas.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/workspace\/src\/ClinicSaas.Infrastructure"
+}

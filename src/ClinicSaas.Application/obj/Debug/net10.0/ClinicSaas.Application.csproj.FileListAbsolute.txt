@@ -1,0 +1,16 @@
+/workspace/src/ClinicSaas.Application/obj/Debug/net10.0/ClinicSaas.Application.csproj.AssemblyReference.cache
+/workspace/src/ClinicSaas.Application/obj/Debug/net10.0/ClinicSaas.Application.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/src/ClinicSaas.Application/obj/Debug/net10.0/ClinicSaas.Application.AssemblyInfoInputs.cache
+/workspace/src/ClinicSaas.Application/obj/Debug/net10.0/ClinicSaas.Application.AssemblyInfo.cs
+/workspace/src/ClinicSaas.Application/obj/Debug/net10.0/ClinicSaas.Application.csproj.CoreCompileInputs.cache
+/workspace/src/ClinicSaas.Application/obj/Debug/net10.0/ClinicSaas.Application.sourcelink.json
+/workspace/src/ClinicSaas.Application/bin/Debug/net10.0/ClinicSaas.Application.deps.json
+/workspace/src/ClinicSaas.Application/bin/Debug/net10.0/ClinicSaas.Application.dll
+/workspace/src/ClinicSaas.Application/bin/Debug/net10.0/ClinicSaas.Application.pdb
+/workspace/src/ClinicSaas.Application/bin/Debug/net10.0/ClinicSaas.Domain.dll
+/workspace/src/ClinicSaas.Application/bin/Debug/net10.0/ClinicSaas.Domain.pdb
+/workspace/src/ClinicSaas.Application/obj/Debug/net10.0/ClinicSa.DA32E6CE.Up2Date
+/workspace/src/ClinicSaas.Application/obj/Debug/net10.0/ClinicSaas.Application.dll
+/workspace/src/ClinicSaas.Application/obj/Debug/net10.0/refint/ClinicSaas.Application.dll
+/workspace/src/ClinicSaas.Application/obj/Debug/net10.0/ClinicSaas.Application.pdb
+/workspace/src/ClinicSaas.Application/obj/Debug/net10.0/ref/ClinicSaas.Application.dll
