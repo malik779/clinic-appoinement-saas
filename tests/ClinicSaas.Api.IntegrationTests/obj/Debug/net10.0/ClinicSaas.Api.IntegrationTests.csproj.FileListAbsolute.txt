@@ -479,3 +479,6 @@
 /workspace/tests/ClinicSaas.Api.IntegrationTests/obj/Debug/net10.0/ClinicSaas.Api.IntegrationTests.pdb
 /workspace/tests/ClinicSaas.Api.IntegrationTests/obj/Debug/net10.0/ClinicSaas.Api.IntegrationTests.genruntimeconfig.cache
 /workspace/tests/ClinicSaas.Api.IntegrationTests/obj/Debug/net10.0/ref/ClinicSaas.Api.IntegrationTests.dll
+D:\PersonalWRSP\clinic-appoinement-saas\tests\ClinicSaas.Api.IntegrationTests\obj\Debug\net10.0\ClinicSaas.Api.IntegrationTests.dll
+D:\PersonalWRSP\clinic-appoinement-saas\tests\ClinicSaas.Api.IntegrationTests\obj\Debug\net10.0\refint\ClinicSaas.Api.IntegrationTests.dll
+D:\PersonalWRSP\clinic-appoinement-saas\tests\ClinicSaas.Api.IntegrationTests\obj\Debug\net10.0\ClinicSaas.Api.IntegrationTests.pdb

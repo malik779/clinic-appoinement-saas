@@ -1911,36 +1911,42 @@
     ]
   },
   "packageFolders": {
-    "/home/ubuntu/.nuget/packages/": {}
+    "C:\\Users\\jawad.malik\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspace/src/ClinicSaas.Api/ClinicSaas.Api.csproj",
+      "projectUniqueName": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Api\\ClinicSaas.Api.csproj",
       "projectName": "ClinicSaas.Api",
-      "projectPath": "/workspace/src/ClinicSaas.Api/ClinicSaas.Api.csproj",
-      "packagesPath": "/home/ubuntu/.nuget/packages/",
-      "outputPath": "/workspace/src/ClinicSaas.Api/obj/",
+      "projectPath": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Api\\ClinicSaas.Api.csproj",
+      "packagesPath": "C:\\Users\\jawad.malik\\.nuget\\packages\\",
+      "outputPath": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Api\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/home/ubuntu/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\jawad.malik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
-        "/usr/lib/dotnet/library-packs": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "/workspace/src/ClinicSaas.Application/ClinicSaas.Application.csproj": {
-              "projectPath": "/workspace/src/ClinicSaas.Application/ClinicSaas.Application.csproj"
+            "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Application\\ClinicSaas.Application.csproj": {
+              "projectPath": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Application\\ClinicSaas.Application.csproj"
             },
-            "/workspace/src/ClinicSaas.Infrastructure/ClinicSaas.Infrastructure.csproj": {
-              "projectPath": "/workspace/src/ClinicSaas.Infrastructure/ClinicSaas.Infrastructure.csproj"
+            "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Infrastructure\\ClinicSaas.Infrastructure.csproj": {
+              "projectPath": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Infrastructure\\ClinicSaas.Infrastructure.csproj"
             }
           }
         }
@@ -1993,7 +1999,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.105/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.106/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

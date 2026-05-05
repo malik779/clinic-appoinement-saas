@@ -1,6 +1,5 @@
 import { useState } from "react";
 import { Button } from "primereact/button";
-import { Card } from "primereact/card";
 import { Dropdown } from "primereact/dropdown";
 import { InputText } from "primereact/inputtext";
 import { Password } from "primereact/password";
@@ -10,6 +9,27 @@ const roleOptions = [
   { label: "Tenant Admin", value: "TenantAdmin" },
   { label: "Staff", value: "Staff" },
 ];
+
+const modeCopy = {
+  login: {
+    kicker: "Secure clinic access",
+    title: "Welcome back",
+    description: "Sign in to your workspace and pick up where your team left off.",
+    submitLabel: "Enter workspace",
+    switchLabel: "Create account",
+    helperText: "Protected by tenant-based access controls for every clinic team.",
+  },
+  register: {
+    kicker: "Create your staff profile",
+    title: "Set up your account",
+    description: "Create a team member account and continue straight into your tenant.",
+    submitLabel: "Create account and continue",
+    switchLabel: "Back to sign in",
+    helperText: "We will create your account first, then sign you in automatically.",
+  },
+} as const;
+
+type UserRole = "TenantAdmin" | "Staff";
 
 type LoginFormProps = {
   onRegister: (payload: {
@@ -26,10 +46,11 @@ export function LoginForm({ onRegister }: LoginFormProps) {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [fullName, setFullName] = useState("");
-  const [role, setRole] = useState("Staff");
+  const [role, setRole] = useState<UserRole>("Staff");
   const [mode, setMode] = useState<"login" | "register">("login");
   const [error, setError] = useState<string | null>(null);
   const [loading, setLoading] = useState(false);
+  const isRegisterMode = mode === "register";
 
   async function handleSubmit(event: React.FormEvent<HTMLFormElement>) {
     event.preventDefault();
@@ -41,12 +62,16 @@ export function LoginForm({ onRegister }: LoginFormProps) {
         throw new Error("Tenant, email and password are required.");
       }
 
-      if (mode === "register") {
+      if (isRegisterMode && !fullName.trim()) {
+        throw new Error("Full name is required to create an account.");
+      }
+
+      if (isRegisterMode) {
         await onRegister({
           email,
           password,
           fullName,
-          role: role as "TenantAdmin" | "Staff",
+          role,
         });
       }
 
@@ -63,74 +88,111 @@ export function LoginForm({ onRegister }: LoginFormProps) {
   }
 
   return (
-    <Card title="Clinic SaaS Authentication" className="auth-card">
-      <form className="p-fluid flex flex-column gap-3" onSubmit={handleSubmit}>
-        <div className="field">
+    <section className="auth-form-shell" aria-label="Authentication form">
+      <div className="auth-form-header">
+        <div>
+          <span className="auth-form-kicker">{modeCopy[mode].kicker}</span>
+          <h2>{modeCopy[mode].title}</h2>
+          <p>{modeCopy[mode].description}</p>
+        </div>
+        <Button
+          type="button"
+          text
+          className="auth-mode-button"
+          label={modeCopy[mode].switchLabel}
+          onClick={() => {
+            setMode(isRegisterMode ? "login" : "register");
+            setError(null);
+          }}
+        />
+      </div>
+
+      <form className="auth-form-grid" onSubmit={handleSubmit}>
+        <div className="auth-field">
           <label htmlFor="tenantId">Tenant Id</label>
           <InputText
             id="tenantId"
+            className="auth-input"
             value={tenantId}
             onChange={(event) => setTenantId(event.target.value)}
-            placeholder="Tenant GUID from onboarding"
+            autoComplete="organization"
+            placeholder="Enter your clinic workspace ID"
           />
+          <small>Use the tenant ID shared during onboarding.</small>
         </div>
 
-        <div className="field">
+        <div className="auth-field">
           <label htmlFor="email">Email</label>
           <InputText
             id="email"
             type="email"
+            className="auth-input"
             value={email}
             onChange={(event) => setEmail(event.target.value)}
+            autoComplete="email"
+            placeholder="name@clinic.com"
           />
         </div>
 
-        <div className="field">
+        <div className="auth-field">
           <label htmlFor="password">Password</label>
           <Password
-            id="password"
+            inputId="password"
+            className="auth-password"
             value={password}
             onChange={(event) => setPassword(event.target.value)}
             feedback={false}
             toggleMask
+            inputClassName="auth-input"
+            autoComplete={isRegisterMode ? "new-password" : "current-password"}
+            placeholder="Enter your password"
           />
         </div>
 
-        {mode === "register" ? (
-          <>
-            <div className="field">
+        {isRegisterMode ? (
+          <div className="auth-register-grid">
+            <div className="auth-field">
               <label htmlFor="fullName">Full Name</label>
               <InputText
                 id="fullName"
+                className="auth-input"
                 value={fullName}
                 onChange={(event) => setFullName(event.target.value)}
+                autoComplete="name"
+                placeholder="Dr. Sarah Ahmed"
               />
             </div>
-            <div className="field">
+            <div className="auth-field">
               <label htmlFor="role">Role</label>
               <Dropdown
                 id="role"
+                className="auth-dropdown"
                 value={role}
                 options={roleOptions}
                 onChange={(event) => setRole(event.value)}
+                placeholder="Select a role"
               />
             </div>
-          </>
+          </div>
         ) : null}
 
-        {error ? <small className="p-error">{error}</small> : null}
+        {error ? (
+          <div className="auth-error-banner" role="alert">
+            <i className="pi pi-exclamation-circle" aria-hidden="true" />
+            <span>{error}</span>
+          </div>
+        ) : null}
 
-        <div className="flex gap-2">
-          <Button type="submit" loading={loading} label={mode === "login" ? "Login" : "Register + Login"} />
+        <div className="auth-actions">
           <Button
-            type="button"
-            text
-            severity="secondary"
-            label={mode === "login" ? "Need account?" : "Have account?"}
-            onClick={() => setMode(mode === "login" ? "register" : "login")}
+            type="submit"
+            className="auth-submit-button"
+            loading={loading}
+            label={modeCopy[mode].submitLabel}
           />
+          <p className="auth-helper-text">{modeCopy[mode].helperText}</p>
         </div>
       </form>
-    </Card>
+    </section>
   );
 }

@@ -1,0 +1,16 @@
+D:\PersonalWRSP\clinic-appoinement-saas\src\ClinicSaas.Application\bin\Release\net10.0\ClinicSaas.Application.deps.json
+D:\PersonalWRSP\clinic-appoinement-saas\src\ClinicSaas.Application\bin\Release\net10.0\ClinicSaas.Application.dll
+D:\PersonalWRSP\clinic-appoinement-saas\src\ClinicSaas.Application\bin\Release\net10.0\ClinicSaas.Application.pdb
+D:\PersonalWRSP\clinic-appoinement-saas\src\ClinicSaas.Application\bin\Release\net10.0\ClinicSaas.Domain.dll
+D:\PersonalWRSP\clinic-appoinement-saas\src\ClinicSaas.Application\bin\Release\net10.0\ClinicSaas.Domain.pdb
+D:\PersonalWRSP\clinic-appoinement-saas\src\ClinicSaas.Application\obj\Release\net10.0\ClinicSaas.Application.csproj.AssemblyReference.cache
+D:\PersonalWRSP\clinic-appoinement-saas\src\ClinicSaas.Application\obj\Release\net10.0\ClinicSaas.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\PersonalWRSP\clinic-appoinement-saas\src\ClinicSaas.Application\obj\Release\net10.0\ClinicSaas.Application.AssemblyInfoInputs.cache
+D:\PersonalWRSP\clinic-appoinement-saas\src\ClinicSaas.Application\obj\Release\net10.0\ClinicSaas.Application.AssemblyInfo.cs
+D:\PersonalWRSP\clinic-appoinement-saas\src\ClinicSaas.Application\obj\Release\net10.0\ClinicSaas.Application.csproj.CoreCompileInputs.cache
+D:\PersonalWRSP\clinic-appoinement-saas\src\ClinicSaas.Application\obj\Release\net10.0\ClinicSaas.Application.sourcelink.json
+D:\PersonalWRSP\clinic-appoinement-saas\src\ClinicSaas.Application\obj\Release\net10.0\ClinicSa.DA32E6CE.Up2Date
+D:\PersonalWRSP\clinic-appoinement-saas\src\ClinicSaas.Application\obj\Release\net10.0\ClinicSaas.Application.dll
+D:\PersonalWRSP\clinic-appoinement-saas\src\ClinicSaas.Application\obj\Release\net10.0\refint\ClinicSaas.Application.dll
+D:\PersonalWRSP\clinic-appoinement-saas\src\ClinicSaas.Application\obj\Release\net10.0\ClinicSaas.Application.pdb
+D:\PersonalWRSP\clinic-appoinement-saas\src\ClinicSaas.Application\obj\Release\net10.0\ref\ClinicSaas.Application.dll

@@ -11,6 +11,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddApplication();
 builder.Services.AddInfrastructure(builder.Configuration);
 builder.Services.AddApiVersioningConfiguration();
+builder.Services.AddCorsConfiguration(builder.Configuration, builder.Environment);
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
@@ -35,6 +36,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseMiddleware<GlobalExceptionHandlingMiddleware>();
+app.UseCors(CorsConfiguration.FrontendPolicyName);
 app.UseMiddleware<TenantResolverMiddleware>();
 app.UseAuthentication();
 app.UseAuthorization();

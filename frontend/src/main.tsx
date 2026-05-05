@@ -10,7 +10,9 @@ import "primeicons/primeicons.css";
 import "primeflex/primeflex.css";
 import "./index.css";
 
-createRoot(document.getElementById("root")!).render(
+const rootElement = document.getElementById("root");
+if (rootElement) {
+  createRoot(rootElement).render(
   <StrictMode>
     <BrowserRouter>
       <QueryProvider>
@@ -20,4 +22,5 @@ createRoot(document.getElementById("root")!).render(
       </QueryProvider>
     </BrowserRouter>
   </StrictMode>,
-);
+  );
+}

@@ -1,0 +1,393 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PersonalWRSP\\clinic-appoinement-saas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A112DD5-92AD-907C-0792-10E906693D7F}|src\\ClinicSaas.Api\\ClinicSaas.Api.csproj|d:\\personalwrsp\\clinic-appoinement-saas\\src\\clinicsaas.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A112DD5-92AD-907C-0792-10E906693D7F}|src\\ClinicSaas.Api\\ClinicSaas.Api.csproj|solutionrelative:src\\clinicsaas.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A112DD5-92AD-907C-0792-10E906693D7F}|src\\ClinicSaas.Api\\ClinicSaas.Api.csproj|d:\\personalwrsp\\clinic-appoinement-saas\\src\\clinicsaas.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A112DD5-92AD-907C-0792-10E906693D7F}|src\\ClinicSaas.Api\\ClinicSaas.Api.csproj|solutionrelative:src\\clinicsaas.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A112DD5-92AD-907C-0792-10E906693D7F}|src\\ClinicSaas.Api\\ClinicSaas.Api.csproj|d:\\personalwrsp\\clinic-appoinement-saas\\src\\clinicsaas.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7A112DD5-92AD-907C-0792-10E906693D7F}|src\\ClinicSaas.Api\\ClinicSaas.Api.csproj|solutionrelative:src\\clinicsaas.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22134210-8407-818F-A353-A490EA5EC6D4}|src\\ClinicSaas.Infrastructure\\ClinicSaas.Infrastructure.csproj|d:\\personalwrsp\\clinic-appoinement-saas\\src\\clinicsaas.infrastructure\\persistence\\defaultseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22134210-8407-818F-A353-A490EA5EC6D4}|src\\ClinicSaas.Infrastructure\\ClinicSaas.Infrastructure.csproj|solutionrelative:src\\clinicsaas.infrastructure\\persistence\\defaultseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E018F0-73D3-6190-7AB1-CA216EB35C63}|src\\ClinicSaas.Application\\ClinicSaas.Application.csproj|d:\\personalwrsp\\clinic-appoinement-saas\\src\\clinicsaas.application\\subscriptions\\commands\\seeddefaultplanscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E018F0-73D3-6190-7AB1-CA216EB35C63}|src\\ClinicSaas.Application\\ClinicSaas.Application.csproj|solutionrelative:src\\clinicsaas.application\\subscriptions\\commands\\seeddefaultplanscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E018F0-73D3-6190-7AB1-CA216EB35C63}|src\\ClinicSaas.Application\\ClinicSaas.Application.csproj|d:\\personalwrsp\\clinic-appoinement-saas\\src\\clinicsaas.application\\websites\\commands\\ensuredefaultwebsitecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E018F0-73D3-6190-7AB1-CA216EB35C63}|src\\ClinicSaas.Application\\ClinicSaas.Application.csproj|solutionrelative:src\\clinicsaas.application\\websites\\commands\\ensuredefaultwebsitecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E018F0-73D3-6190-7AB1-CA216EB35C63}|src\\ClinicSaas.Application\\ClinicSaas.Application.csproj|d:\\personalwrsp\\clinic-appoinement-saas\\src\\clinicsaas.application\\websites\\commands\\ensuredefaultwebsitecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E018F0-73D3-6190-7AB1-CA216EB35C63}|src\\ClinicSaas.Application\\ClinicSaas.Application.csproj|solutionrelative:src\\clinicsaas.application\\websites\\commands\\ensuredefaultwebsitecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A112DD5-92AD-907C-0792-10E906693D7F}|src\\ClinicSaas.Api\\ClinicSaas.Api.csproj|d:\\personalwrsp\\clinic-appoinement-saas\\src\\clinicsaas.api\\controllers\\tenantinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A112DD5-92AD-907C-0792-10E906693D7F}|src\\ClinicSaas.Api\\ClinicSaas.Api.csproj|solutionrelative:src\\clinicsaas.api\\controllers\\tenantinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A112DD5-92AD-907C-0792-10E906693D7F}|src\\ClinicSaas.Api\\ClinicSaas.Api.csproj|d:\\personalwrsp\\clinic-appoinement-saas\\src\\clinicsaas.api\\controllers\\tenantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A112DD5-92AD-907C-0792-10E906693D7F}|src\\ClinicSaas.Api\\ClinicSaas.Api.csproj|solutionrelative:src\\clinicsaas.api\\controllers\\tenantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A112DD5-92AD-907C-0792-10E906693D7F}|src\\ClinicSaas.Api\\ClinicSaas.Api.csproj|d:\\personalwrsp\\clinic-appoinement-saas\\src\\clinicsaas.api\\configuration\\apiversioningconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A112DD5-92AD-907C-0792-10E906693D7F}|src\\ClinicSaas.Api\\ClinicSaas.Api.csproj|solutionrelative:src\\clinicsaas.api\\configuration\\apiversioningconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A112DD5-92AD-907C-0792-10E906693D7F}|src\\ClinicSaas.Api\\ClinicSaas.Api.csproj|d:\\personalwrsp\\clinic-appoinement-saas\\src\\clinicsaas.api\\common\\internalapimarker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A112DD5-92AD-907C-0792-10E906693D7F}|src\\ClinicSaas.Api\\ClinicSaas.Api.csproj|solutionrelative:src\\clinicsaas.api\\common\\internalapimarker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22134210-8407-818F-A353-A490EA5EC6D4}|src\\ClinicSaas.Infrastructure\\ClinicSaas.Infrastructure.csproj|d:\\personalwrsp\\clinic-appoinement-saas\\src\\clinicsaas.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22134210-8407-818F-A353-A490EA5EC6D4}|src\\ClinicSaas.Infrastructure\\ClinicSaas.Infrastructure.csproj|solutionrelative:src\\clinicsaas.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22134210-8407-818F-A353-A490EA5EC6D4}|src\\ClinicSaas.Infrastructure\\ClinicSaas.Infrastructure.csproj|d:\\personalwrsp\\clinic-appoinement-saas\\src\\clinicsaas.infrastructure\\tenancy\\tenantcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22134210-8407-818F-A353-A490EA5EC6D4}|src\\ClinicSaas.Infrastructure\\ClinicSaas.Infrastructure.csproj|solutionrelative:src\\clinicsaas.infrastructure\\tenancy\\tenantcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22134210-8407-818F-A353-A490EA5EC6D4}|src\\ClinicSaas.Infrastructure\\ClinicSaas.Infrastructure.csproj|d:\\personalwrsp\\clinic-appoinement-saas\\src\\clinicsaas.infrastructure\\tenancy\\tenantresolvermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22134210-8407-818F-A353-A490EA5EC6D4}|src\\ClinicSaas.Infrastructure\\ClinicSaas.Infrastructure.csproj|solutionrelative:src\\clinicsaas.infrastructure\\tenancy\\tenantresolvermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22134210-8407-818F-A353-A490EA5EC6D4}|src\\ClinicSaas.Infrastructure\\ClinicSaas.Infrastructure.csproj|d:\\personalwrsp\\clinic-appoinement-saas\\src\\clinicsaas.infrastructure\\tenancy\\tenantconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22134210-8407-818F-A353-A490EA5EC6D4}|src\\ClinicSaas.Infrastructure\\ClinicSaas.Infrastructure.csproj|solutionrelative:src\\clinicsaas.infrastructure\\tenancy\\tenantconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22134210-8407-818F-A353-A490EA5EC6D4}|src\\ClinicSaas.Infrastructure\\ClinicSaas.Infrastructure.csproj|d:\\personalwrsp\\clinic-appoinement-saas\\src\\clinicsaas.infrastructure\\tenancy\\currentusercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22134210-8407-818F-A353-A490EA5EC6D4}|src\\ClinicSaas.Infrastructure\\ClinicSaas.Infrastructure.csproj|solutionrelative:src\\clinicsaas.infrastructure\\tenancy\\currentusercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22134210-8407-818F-A353-A490EA5EC6D4}|src\\ClinicSaas.Infrastructure\\ClinicSaas.Infrastructure.csproj|d:\\personalwrsp\\clinic-appoinement-saas\\src\\clinicsaas.infrastructure\\repositories\\websiterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22134210-8407-818F-A353-A490EA5EC6D4}|src\\ClinicSaas.Infrastructure\\ClinicSaas.Infrastructure.csproj|solutionrelative:src\\clinicsaas.infrastructure\\repositories\\websiterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22134210-8407-818F-A353-A490EA5EC6D4}|src\\ClinicSaas.Infrastructure\\ClinicSaas.Infrastructure.csproj|d:\\personalwrsp\\clinic-appoinement-saas\\src\\clinicsaas.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22134210-8407-818F-A353-A490EA5EC6D4}|src\\ClinicSaas.Infrastructure\\ClinicSaas.Infrastructure.csproj|solutionrelative:src\\clinicsaas.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22134210-8407-818F-A353-A490EA5EC6D4}|src\\ClinicSaas.Infrastructure\\ClinicSaas.Infrastructure.csproj|d:\\personalwrsp\\clinic-appoinement-saas\\src\\clinicsaas.infrastructure\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22134210-8407-818F-A353-A490EA5EC6D4}|src\\ClinicSaas.Infrastructure\\ClinicSaas.Infrastructure.csproj|solutionrelative:src\\clinicsaas.infrastructure\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22134210-8407-818F-A353-A490EA5EC6D4}|src\\ClinicSaas.Infrastructure\\ClinicSaas.Infrastructure.csproj|d:\\personalwrsp\\clinic-appoinement-saas\\src\\clinicsaas.infrastructure\\queries\\tenantreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22134210-8407-818F-A353-A490EA5EC6D4}|src\\ClinicSaas.Infrastructure\\ClinicSaas.Infrastructure.csproj|solutionrelative:src\\clinicsaas.infrastructure\\queries\\tenantreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A112DD5-92AD-907C-0792-10E906693D7F}|src\\ClinicSaas.Api\\ClinicSaas.Api.csproj|d:\\personalwrsp\\clinic-appoinement-saas\\src\\clinicsaas.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7A112DD5-92AD-907C-0792-10E906693D7F}|src\\ClinicSaas.Api\\ClinicSaas.Api.csproj|solutionrelative:src\\clinicsaas.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "src\\ClinicSaas.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "src\\ClinicSaas.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:45:50.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SeedDefaultPlansCommand.cs",
+              "DocumentMoniker": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Application\\Subscriptions\\Commands\\SeedDefaultPlansCommand.cs",
+              "RelativeDocumentMoniker": "src\\ClinicSaas.Application\\Subscriptions\\Commands\\SeedDefaultPlansCommand.cs",
+              "ToolTip": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Application\\Subscriptions\\Commands\\SeedDefaultPlansCommand.cs",
+              "RelativeToolTip": "src\\ClinicSaas.Application\\Subscriptions\\Commands\\SeedDefaultPlansCommand.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:46:34.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnsureDefaultWebsiteCommandHandler.cs",
+              "DocumentMoniker": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Application\\Websites\\Commands\\EnsureDefaultWebsiteCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\ClinicSaas.Application\\Websites\\Commands\\EnsureDefaultWebsiteCommandHandler.cs",
+              "ToolTip": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Application\\Websites\\Commands\\EnsureDefaultWebsiteCommandHandler.cs",
+              "RelativeToolTip": "src\\ClinicSaas.Application\\Websites\\Commands\\EnsureDefaultWebsiteCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:46:24.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnsureDefaultWebsiteCommand.cs",
+              "DocumentMoniker": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Application\\Websites\\Commands\\EnsureDefaultWebsiteCommand.cs",
+              "RelativeDocumentMoniker": "src\\ClinicSaas.Application\\Websites\\Commands\\EnsureDefaultWebsiteCommand.cs",
+              "ToolTip": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Application\\Websites\\Commands\\EnsureDefaultWebsiteCommand.cs",
+              "RelativeToolTip": "src\\ClinicSaas.Application\\Websites\\Commands\\EnsureDefaultWebsiteCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:46:24.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TenantInfoController.cs",
+              "DocumentMoniker": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Api\\Controllers\\TenantInfoController.cs",
+              "RelativeDocumentMoniker": "src\\ClinicSaas.Api\\Controllers\\TenantInfoController.cs",
+              "ToolTip": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Api\\Controllers\\TenantInfoController.cs",
+              "RelativeToolTip": "src\\ClinicSaas.Api\\Controllers\\TenantInfoController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:46:05.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\ClinicSaas.Api\\Program.cs",
+              "ToolTip": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Api\\Program.cs",
+              "RelativeToolTip": "src\\ClinicSaas.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T06:35:06.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TenantsController.cs",
+              "DocumentMoniker": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Api\\Controllers\\TenantsController.cs",
+              "RelativeDocumentMoniker": "src\\ClinicSaas.Api\\Controllers\\TenantsController.cs",
+              "ToolTip": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Api\\Controllers\\TenantsController.cs",
+              "RelativeToolTip": "src\\ClinicSaas.Api\\Controllers\\TenantsController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:46:02.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DefaultSeeder.cs",
+              "DocumentMoniker": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Infrastructure\\Persistence\\DefaultSeeder.cs",
+              "RelativeDocumentMoniker": "src\\ClinicSaas.Infrastructure\\Persistence\\DefaultSeeder.cs",
+              "ToolTip": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Infrastructure\\Persistence\\DefaultSeeder.cs",
+              "RelativeToolTip": "src\\ClinicSaas.Infrastructure\\Persistence\\DefaultSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:42:50.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\ClinicSaas.Api\\appsettings.json",
+              "ToolTip": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Api\\appsettings.json",
+              "RelativeToolTip": "src\\ClinicSaas.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-21T12:34:15.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApiVersioningConfiguration.cs",
+              "DocumentMoniker": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Api\\Configuration\\ApiVersioningConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\ClinicSaas.Api\\Configuration\\ApiVersioningConfiguration.cs",
+              "ToolTip": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Api\\Configuration\\ApiVersioningConfiguration.cs",
+              "RelativeToolTip": "src\\ClinicSaas.Api\\Configuration\\ApiVersioningConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:45:47.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InternalApiMarker.cs",
+              "DocumentMoniker": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Api\\Common\\InternalApiMarker.cs",
+              "RelativeDocumentMoniker": "src\\ClinicSaas.Api\\Common\\InternalApiMarker.cs",
+              "ToolTip": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Api\\Common\\InternalApiMarker.cs",
+              "RelativeToolTip": "src\\ClinicSaas.Api\\Common\\InternalApiMarker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:45:41.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "src\\ClinicSaas.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "src\\ClinicSaas.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:42:35.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TenantContext.cs",
+              "DocumentMoniker": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Infrastructure\\Tenancy\\TenantContext.cs",
+              "RelativeDocumentMoniker": "src\\ClinicSaas.Infrastructure\\Tenancy\\TenantContext.cs",
+              "ToolTip": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Infrastructure\\Tenancy\\TenantContext.cs",
+              "RelativeToolTip": "src\\ClinicSaas.Infrastructure\\Tenancy\\TenantContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:42:26.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TenantResolverMiddleware.cs",
+              "DocumentMoniker": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Infrastructure\\Tenancy\\TenantResolverMiddleware.cs",
+              "RelativeDocumentMoniker": "src\\ClinicSaas.Infrastructure\\Tenancy\\TenantResolverMiddleware.cs",
+              "ToolTip": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Infrastructure\\Tenancy\\TenantResolverMiddleware.cs",
+              "RelativeToolTip": "src\\ClinicSaas.Infrastructure\\Tenancy\\TenantResolverMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:42:28.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TenantConstants.cs",
+              "DocumentMoniker": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Infrastructure\\Tenancy\\TenantConstants.cs",
+              "RelativeDocumentMoniker": "src\\ClinicSaas.Infrastructure\\Tenancy\\TenantConstants.cs",
+              "ToolTip": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Infrastructure\\Tenancy\\TenantConstants.cs",
+              "RelativeToolTip": "src\\ClinicSaas.Infrastructure\\Tenancy\\TenantConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:42:24.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CurrentUserContext.cs",
+              "DocumentMoniker": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Infrastructure\\Tenancy\\CurrentUserContext.cs",
+              "RelativeDocumentMoniker": "src\\ClinicSaas.Infrastructure\\Tenancy\\CurrentUserContext.cs",
+              "ToolTip": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Infrastructure\\Tenancy\\CurrentUserContext.cs",
+              "RelativeToolTip": "src\\ClinicSaas.Infrastructure\\Tenancy\\CurrentUserContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:42:23.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WebsiteRepository.cs",
+              "DocumentMoniker": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Infrastructure\\Repositories\\WebsiteRepository.cs",
+              "RelativeDocumentMoniker": "src\\ClinicSaas.Infrastructure\\Repositories\\WebsiteRepository.cs",
+              "ToolTip": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Infrastructure\\Repositories\\WebsiteRepository.cs",
+              "RelativeToolTip": "src\\ClinicSaas.Infrastructure\\Repositories\\WebsiteRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:42:02.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "src\\ClinicSaas.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "src\\ClinicSaas.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:41:57.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RoleRepository.cs",
+              "DocumentMoniker": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Infrastructure\\Repositories\\RoleRepository.cs",
+              "RelativeDocumentMoniker": "src\\ClinicSaas.Infrastructure\\Repositories\\RoleRepository.cs",
+              "ToolTip": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Infrastructure\\Repositories\\RoleRepository.cs",
+              "RelativeToolTip": "src\\ClinicSaas.Infrastructure\\Repositories\\RoleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:41:53.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TenantReadRepository.cs",
+              "DocumentMoniker": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Infrastructure\\Queries\\TenantReadRepository.cs",
+              "RelativeDocumentMoniker": "src\\ClinicSaas.Infrastructure\\Queries\\TenantReadRepository.cs",
+              "ToolTip": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Infrastructure\\Queries\\TenantReadRepository.cs",
+              "RelativeToolTip": "src\\ClinicSaas.Infrastructure\\Queries\\TenantReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:41:44.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\ClinicSaas.Api\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\PersonalWRSP\\clinic-appoinement-saas\\src\\ClinicSaas.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\ClinicSaas.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-21T06:34:38.737Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
